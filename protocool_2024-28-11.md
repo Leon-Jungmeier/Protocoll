@@ -32,4 +32,5 @@
 3.git push -u origin main
 
 # clone
-1.git pull
+1.Make a new dircetory and connect with repositroy
+2.type ->git pull
